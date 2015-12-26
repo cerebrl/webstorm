@@ -1,0 +1,19 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '/Users/jlowery/paypal/vx-pattern-lib/vxPatternsConfig.json'" />
+    <option name="defaultScopeName" value="File '/Users/jlowery/paypal/vx-pattern-lib/vxPatternsConfig.json'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/jlowery/paypal/vx-pattern-lib/vxPatternsConfig.json'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.js</mask>
+      <mask>*.json</mask>
+    </recentFileMasks>
+  </component>
+</application>
