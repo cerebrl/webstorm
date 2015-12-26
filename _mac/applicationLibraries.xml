@@ -1,0 +1,121 @@
+<application>
+  <component name="libraryTable">
+    <library name="angularjs-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular.d.ts" />
+          <item url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-mocks.d.ts" />
+          <item url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-cookies.d.ts" />
+          <item url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-scenario.d.ts" />
+          <item url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-animate.d.ts" />
+          <item url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-sanitize.d.ts" />
+          <item url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-route.d.ts" />
+          <item url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-resource.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-mocks.d.ts" />
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular.d.ts" />
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-scenario.d.ts" />
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-cookies.d.ts" />
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-animate.d.ts" />
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-sanitize.d.ts" />
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-route.d.ts" />
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-resource.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="backbone-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_backbone_backbone.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_backbone_backbone.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="browserify-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_browserify_browserify.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_browserify_browserify.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="dustjs-linkedin-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_dustjs-linkedin_dustjs-linkedin.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_dustjs-linkedin_dustjs-linkedin.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="express-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_express_express.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_express_express.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jasmine-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_jasmine_jasmine.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_jasmine_jasmine.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jQuery-2.0.0" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_code.jquery.com_jquery-2.0.0.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_code.jquery.com_jquery-2.0.0.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="karma-jasmine-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_karma-jasmine_karma-jasmine.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_karma-jasmine_karma-jasmine.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="lodash-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_lodash_lodash.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_lodash_lodash.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
