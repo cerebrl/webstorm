@@ -7,7 +7,6 @@
       <mapping ext="es6" type="JavaScript" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
-      <mapping pattern=".npmignore" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
