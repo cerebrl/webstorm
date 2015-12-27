@@ -1,14 +1,6 @@
 <scheme name="Custom" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="SourceCodePro-Regular" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </console-font>
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
@@ -364,34 +356,9 @@
         <option name="BACKGROUND" value="5e5339" />
       </value>
     </option>
-    <option name="DUST_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="808080" />
-      </value>
-    </option>
-    <option name="DUST_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="cc7832" />
-      </value>
-    </option>
-    <option name="DUST_NUMBER">
-      <value>
-        <option name="FOREGROUND" value="6897bb" />
-      </value>
-    </option>
-    <option name="DUST_STRING">
-      <value>
-        <option name="FOREGROUND" value="6a8759" />
-      </value>
-    </option>
-    <option name="DUST_TAG">
-      <value>
-        <option name="FOREGROUND" value="cc7832" />
-      </value>
-    </option>
     <option name="DUST_TODO">
       <value>
-        <option name="FOREGROUND" value="ff" />
+        <option name="FOREGROUND" value="c8c8ff" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>

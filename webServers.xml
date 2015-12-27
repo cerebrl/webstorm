@@ -4,12 +4,8 @@
       <webServer id="194aec2a-e27e-4120-b690-778a8d886be7" name="PM UI Project" url="http://localhost:5001">
         <fileTransfer accessType="LOCAL" />
       </webServer>
-      <webServer id="e54be696-fdec-4b22-a3b8-04f6ec5b5085" name="PM-Server-UI" url="http://192.168.0.30:5001">
-        <fileTransfer host="192.168.0.30" port="22" rootFolder="/home/pmapi" accessType="SFTP" password="dffadfcbdfd8dfc1dfc3dfc4dfcddfe7dfc5dfc8dfc3dfc6dfc3dfdedfd3df98df9adf9bdf9f" username="pmapi">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-        </fileTransfer>
+      <webServer id="975d1bb3-948e-4f5b-be5d-ac2aad38702b" name="8ball Config" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
       </webServer>
     </option>
   </component>
