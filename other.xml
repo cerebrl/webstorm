@@ -3,10 +3,7 @@
     <option name="CURRENT_SCHEME_NAME" value="Default" />
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/bin/node" version="0.10.32" last-modified="1410988846000" />
-    <node-interpreter path="/usr/local/Cellar/node/0.10.31/bin/node" version="0.10.31" last-modified="1408488345000" />
-    <node-interpreter path="/usr/local/Cellar/node/0.10.32/bin/node" version="0.10.32" last-modified="1410988846000" />
-    <node-interpreter path="/usr/local/Cellar/node/0.10.28/bin/node" version="0.10.28" last-modified="1399301695000" />
+    <node-interpreter path="/usr/local/bin/node" version="0.10.38" last-modified="1429586279000" />
   </component>
   <component name="XPathView.XPathViewPlugin">
     <option name="SHOW_IN_TOOLBAR" value="true" />
