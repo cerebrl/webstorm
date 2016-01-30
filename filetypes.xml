@@ -1,14 +1,16 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping ext="dust" type="Dust" />
       <removed_mapping ext="es6" type="ECMAScript 6" />
       <mapping ext="es6" type="JavaScript" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
+      <mapping pattern=".placeholder" type="PLAIN_TEXT" />
+      <mapping pattern=".tslintrc" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
-      <mapping ext="dust" type="Dust" />
     </extensionMap>
   </component>
 </application>
