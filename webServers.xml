@@ -5,7 +5,7 @@
         <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="975d1bb3-948e-4f5b-be5d-ac2aad38702b" name="8ball Config" url="http://localhost">
-        <fileTransfer accessType="LOCAL" />
+        <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
   </component>
