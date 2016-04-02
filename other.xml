@@ -24,6 +24,11 @@
     <option name="KEEP_ITN_PASSWORD" value="false" />
     <option name="EMAIL" value="" />
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="0.10.41" last-modified="1449242583000" />
+    </local-interpreter>
+  </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="/usr/local/bin/node" version="0.10.41" last-modified="1449242583000" />
   </component>
