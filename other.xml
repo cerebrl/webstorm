@@ -25,14 +25,12 @@
     <option name="EMAIL" value="" />
   </component>
   <component name="NodeJsLocalInterpreters">
-    <local-interpreter path="/usr/local/bin/node" />
-    <local-interpreter path="/usr/local/Cellar/node/5.3.0/bin/node" />
-    <local-interpreter path="/usr/local/Cellar/node/0.10.32/bin/node" />
-    <local-interpreter path="/usr/local/Cellar/node/0.10.31/bin/node" />
-    <local-interpreter path="/usr/local/Cellar/node/0.10.28/bin/node" />
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="0.10.41" last-modified="1449242583000" />
+    </local-interpreter>
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/bin/node" version="5.3.0" last-modified="1450291774000" />
+    <node-interpreter path="/usr/local/bin/node" version="0.10.41" last-modified="1449242583000" />
   </component>
   <component name="XPathView.XPathViewPlugin">
     <option name="SHOW_IN_TOOLBAR" value="true" />
