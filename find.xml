@@ -3,7 +3,6 @@
     <option name="customScope" value="File '/Users/jlowery/paypal/vx-pattern-lib/vxPatternsConfig.json'" />
     <option name="defaultScopeName" value="File '/Users/jlowery/paypal/vx-pattern-lib/vxPatternsConfig.json'" />
     <option name="SEARCH_SCOPE" value="File '/Users/jlowery/paypal/vx-pattern-lib/vxPatternsConfig.json'" />
-    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,7 +15,6 @@
       <mask>*.js</mask>
       <mask>*.json</mask>
       <mask>*.tsx</mask>
-      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>

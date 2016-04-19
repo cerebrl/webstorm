@@ -26,11 +26,15 @@
   </component>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="/usr/local/bin/node">
-      <version-cache version="4.4.2" last-modified="1460403626000" />
+      <version-cache version="5.3.0" last-modified="1450291774000" />
     </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/5.3.0/bin/node" excluded="true" />
+    <local-interpreter path="/usr/local/Cellar/node/0.10.31/bin/node" excluded="true" />
+    <local-interpreter path="/usr/local/Cellar/node/0.10.28/bin/node" excluded="true" />
+    <local-interpreter path="/usr/local/Cellar/node/0.10.32/bin/node" excluded="true" />
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/bin/node" version="4.4.2" last-modified="1460403626000" />
+    <node-interpreter path="/usr/local/bin/node" version="5.3.0" last-modified="1450291774000" />
   </component>
   <component name="XPathView.XPathViewPlugin">
     <option name="SHOW_IN_TOOLBAR" value="true" />
