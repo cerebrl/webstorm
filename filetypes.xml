@@ -9,6 +9,7 @@
       <mapping pattern=".build" type="PLAIN_TEXT" />
       <mapping pattern=".placeholder" type="PLAIN_TEXT" />
       <mapping pattern=".tslintrc" type="PLAIN_TEXT" />
+      <mapping pattern=".csslintrc" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
