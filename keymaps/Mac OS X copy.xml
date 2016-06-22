@@ -12,6 +12,10 @@
   <action id="CreateWebProject">
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f9" />
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="alt back_space" />
